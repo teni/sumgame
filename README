@@ -1,0 +1,25 @@
+This is a game about sums. You are presented with a grid of numbers, a number X at the bottom center and a timer. Your job is to choose numbers from the grid that sum up to X before the timer runs out. Good luck.
+
+This is version 0.0.1.... it is soooo unfinished. If you have ideas and want to help you are welcome.
+
+
+Thanks .
+
+
+
+
+
+INSTALLATION GUIDE
+
+You need to have Java installed on your PC.
+
+I'd upload the executable later but for now you need to compile the code yourself.
+
+javac *.java
+
+to run it
+
+java init
+
+
+thanks again
